@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Fashion Image Modification for E-commerce web shops using Pretrained models, Image segmentation and pose estimation<!-- a Coursera Project sign language interpretation from video frames to a subtitle and also object tracking in a video file-->
-- 🌱 I’m currently applying Transfer learning, GANs
+- 🌱 I’m currently applying Transfer learning, GANs and diffusion models
 - 👯 I’m looking to collaborate on exciting projects
 - 🤔 I’m currently open to work in any team on exciting projects <!--looking for help with ... -->
 - 💬 Ask me about my best AI project
