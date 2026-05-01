@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m have worked on Fashion Image Modification for E-commerce web shops using Pretrained models, Image segmentation and pose estimation<!-- a Coursera Project sign language interpretation from video frames to a subtitle and also object tracking in a video file-->
-- 🌱 I’m currently building Agentic AI and Langchain applications in AWS bedrock in AWS/Restart intensive Bootcamp. To achieve this I am appling efficient prompt engineering best practicies, guardrails, Vector DBs.
+- 🌱 I’m currently building Gen AI, Agentic AI and Langchain applications on AWS Cloud in my AWS/Restart intensive Bootcamp. To achieve this I am using AWS bedrock, efficient prompt engineering best practicies, guardrails, Vector DBs.
 - 👯 I’m looking forward to collaborate on exciting projects
 - 🤔 I’m currently open to work in any team on exciting projects <!--looking for help with ... -->
 - 💬 Ask me about my best AI project or my current project
