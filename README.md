@@ -12,5 +12,4 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about my best AI project or my current project
 - 📫 How to reach me: You can reach me via my email: euetel@gmail.com
 - 😄 Pronouns: ... Guess
-- ⚡ Fun fact: I spend time with vibe coding and implementing free online tools check out my latest online tool [80+ best Free Units Converter](https://unit-converter.co){:target="_blank" rel="noopener noreferrer"}
-
+- ⚡ Fun fact: I spend time with vibe coding and implementing free online tools check out my latest online tool <a href="https://unit-converter.co" target="_blank" rel="noopener noreferrer">80+ best Free Units Converter</a>
